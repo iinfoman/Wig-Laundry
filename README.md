@@ -1,2 +1,2 @@
-# Wig-Laundry
+# lavish-wig
 Wig washing
